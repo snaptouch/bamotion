@@ -2379,7 +2379,69 @@ body {
     width: 100% !important;
   }
 }
-.cid-riwVHfXEdw {
+.cid-rixzN4atyJ {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rixzN4atyJ .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-rixzN4atyJ .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-rixzN4atyJ .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-rixzN4atyJ .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-rixzN4atyJ .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rixzN4atyJ .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-rixzN4atyJ .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-rixzN4atyJ .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-rixzN4atyJ .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rixtNROwFf {
   padding-top: 60px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/fond2-1920x1080.jpg");
@@ -2649,6 +2711,40 @@ body {
     width: 100% !important;
   }
 }
+.cid-rixsDwLjFg {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/fond2-1920x1080.jpg");
+}
+.cid-rixt9fVWpX {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/vlcsnap-2019-02-19-16h48m22s429-1-1920x1080.png");
+}
+.cid-rixsIConES {
+  background: #ffffff;
+}
+.cid-rixsIConES .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rixsIConES .video-block {
+    width: 100% !important;
+  }
+}
+.cid-rixAVrOYKk {
+  background: #ffffff;
+}
+.cid-rixAVrOYKk .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rixAVrOYKk .video-block {
+    width: 100% !important;
+  }
+}
 .cid-riwVlk9HHm {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -2769,7 +2865,7 @@ body {
 .cid-rfdV91R2Rd {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/beaujour-b1anim-stylis-3-1920x10805.jpg");
+  background-image: url("../../../assets/images/beaujour-b1anim-stylis-3-1920x10808.jpg");
 }
 .cid-riwUpmUKYt .modal-body .close {
   background: #1b1b1b;
@@ -3622,7 +3718,7 @@ body {
 .cid-rfvyIpvwwk {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/beaujour-b1anim-stylis-3-1920x10805.jpg");
+  background-image: url("../../../assets/images/beaujour-b1anim-stylis-3-1920x10808.jpg");
 }
 .cid-rfvyIq1q3R {
   padding-top: 0px;
