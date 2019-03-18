@@ -1,15 +1,15 @@
 {
   "settings": {
     "name": "BAMotion-clone",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
         "primaryColor": "#ffffff",
-        "secondaryColor": "#ff3366",
+        "secondaryColor": "#ffffff",
         "successColor": "#F7ED4A",
-        "infoColor": "#55b4d4",
+        "infoColor": "#ffffff",
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
